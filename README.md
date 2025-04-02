@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🚀 Behiye Bedir – Data Scientist  
 
-<!--
-**BehiyeBedir/behiyebedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Behiye Bedir**, and I've been developing myself in the field of data science for 2-3 years. I am building a strong foundation in data analysis, machine learning, and Python.
 
-Here are some ideas to get you started:
+📊 In **Data Science**, I focus on Python, SQL, machine learning, data analysis, and visualization. I am also constantly learning new tools and methods to keep my knowledge up to date.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills  
+- **Python**, **SQL**, **R**, **Tableau**  
+- **NumPy**, **Pandas**, **Matplotlib**  
+- **Data Visualization**  
+- **Machine Learning**  
+- **Web Scraping** (Selenium, BS4)  
+
+ 
+
+📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/behiye-bedir-87988b26a/)  
+
+---  
+💡 **Check Out My GitHub Portfolio!** 🚀
