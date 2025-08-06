@@ -1,19 +1,14 @@
-## 🚀 Behiye Bedir – Data Scientist  
+<p align="center">
+  <img src="./assets/my-reality.gif" alt="My Data Science Reality GIF" width="100%" />
+</p>
 
-Hello! I'm **Behiye Bedir**, and I've been developing myself in the field of data science for 2-3 years. I am building a strong foundation in data analysis, machine learning, and Python.
 
-📊 In **Data Science**, I focus on Python, SQL, machine learning, data analysis, and visualization. I am also constantly learning new tools and methods to keep my knowledge up to date.
+### 🚀 Behiye Bedir – Aspiring Data Scientist
 
-### 🌟 Skills  
-- **Python**, **SQL**, **R**, **Tableau**  
-- **NumPy**, **Pandas**, **Matplotlib**  
-- **Data Visualization**  
-- **Machine Learning**  
-- **Web Scraping** (Selenium, BS4)  
+I approach data science with great curiosity and a strong commitment to learning.  
+I am dedicated to understanding and analyzing complex data to create meaningful impact.  
+Always open to growth and eager to deepen my expertise on this journey.
 
- 
 
-📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/behiye-bedir-87988b26a/)  
 
----  
-💡 **Check Out My GitHub Portfolio!** 🚀
+
